@@ -1,0 +1,587 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+
+    <meta name="ProgId" content="Word.Document" />
+    <meta name="Generator" content="Microsoft Word 11" />
+    <meta name="Originator" content="Microsoft Word 11" />
+    <link rel="File-List" href="KaiTi.files/filelist.xml" />
+    <title>武汉理工大学</title>
+    <!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>change</o:Author>
+  <o:LastAuthor>change</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>72</o:TotalTime>
+  <o:Created>2011-10-26T05:00:00Z</o:Created>
+  <o:LastSaved>2011-10-26T05:00:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>106</o:Words>
+  <o:Characters>605</o:Characters>
+  <o:Company>change</o:Company>
+  <o:Lines>5</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>710</o:CharactersWithSpaces>
+  <o:Version>11.6360</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+    <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+    <!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+    <style>
+        <!--
+        /* Font Definitions */
+        @font-face {
+            font-family: 宋体;
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+            mso-font-alt: SimSun;
+            mso-font-charset: 134;
+            mso-generic-font-family: auto;
+            mso-font-pitch: variable;
+            mso-font-signature: 3 135135232 16 0 262145 0;
+        }
+
+        @font-face {
+            font-family: Dotum;
+            panose-1: 2 11 6 0 0 1 1 1 1 1;
+            mso-font-alt: \B3CB\C6C0;
+            mso-font-charset: 129;
+            mso-generic-font-family: swiss;
+            mso-font-pitch: variable;
+            mso-font-signature: -1342176593 1775729915 48 0 524447 0;
+        }
+
+        @font-face {
+            font-family: 黑体;
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+            mso-font-alt: SimHei;
+            mso-font-charset: 134;
+            mso-generic-font-family: auto;
+            mso-font-pitch: variable;
+            mso-font-signature: 1 135135232 16 0 262144 0;
+        }
+
+        @font-face {
+            font-family: 仿宋_GB2312;
+            panose-1: 2 1 6 9 3 1 1 1 1 1;
+            mso-font-charset: 134;
+            mso-generic-font-family: modern;
+            mso-font-pitch: fixed;
+            mso-font-signature: 1 135135232 16 0 262144 0;
+        }
+
+        @font-face {
+            font-family: "\@仿宋_GB2312";
+            panose-1: 2 1 6 9 3 1 1 1 1 1;
+            mso-font-charset: 134;
+            mso-generic-font-family: modern;
+            mso-font-pitch: fixed;
+            mso-font-signature: 1 135135232 16 0 262144 0;
+        }
+
+        @font-face {
+            font-family: "\@宋体";
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+            mso-font-charset: 134;
+            mso-generic-font-family: auto;
+            mso-font-pitch: variable;
+            mso-font-signature: 3 135135232 16 0 262145 0;
+        }
+
+        @font-face {
+            font-family: 方正舒体;
+            panose-1: 2 1 6 1 3 1 1 1 1 1;
+            mso-font-charset: 134;
+            mso-generic-font-family: auto;
+            mso-font-pitch: variable;
+            mso-font-signature: 3 135135232 16 0 262144 0;
+        }
+
+        @font-face {
+            font-family: 楷体_GB2312;
+            panose-1: 2 1 6 9 3 1 1 1 1 1;
+            mso-font-charset: 134;
+            mso-generic-font-family: modern;
+            mso-font-pitch: fixed;
+            mso-font-signature: 1 135135232 16 0 262144 0;
+        }
+
+        @font-face {
+            font-family: "\@黑体";
+            panose-1: 2 1 6 0 3 1 1 1 1 1;
+            mso-font-charset: 134;
+            mso-generic-font-family: auto;
+            mso-font-pitch: variable;
+            mso-font-signature: 1 135135232 16 0 262144 0;
+        }
+
+        @font-face {
+            font-family: "\@楷体_GB2312";
+            panose-1: 2 1 6 9 3 1 1 1 1 1;
+            mso-font-charset: 134;
+            mso-generic-font-family: modern;
+            mso-font-pitch: fixed;
+            mso-font-signature: 1 135135232 16 0 262144 0;
+        }
+
+        @font-face {
+            font-family: "\@Dotum";
+            panose-1: 2 11 6 0 0 1 1 1 1 1;
+            mso-font-charset: 129;
+            mso-generic-font-family: swiss;
+            mso-font-pitch: variable;
+            mso-font-signature: -1342176593 1775729915 48 0 524447 0;
+        }
+
+        @font-face {
+            font-family: "\@方正舒体";
+            panose-1: 2 1 6 1 3 1 1 1 1 1;
+            mso-font-charset: 134;
+            mso-generic-font-family: auto;
+            mso-font-pitch: variable;
+            mso-font-signature: 3 135135232 16 0 262144 0;
+        }
+        /* Style Definitions */
+        p.MsoNormal, li.MsoNormal, div.MsoNormal {
+            mso-style-parent: "";
+            margin: 0cm;
+            margin-bottom: .0001pt;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            mso-pagination: none;
+            font-size: 10.5pt;
+            mso-bidi-font-size: 12.0pt;
+            font-family: "Times New Roman";
+            mso-fareast-font-family: 宋体;
+            mso-font-kerning: 1.0pt;
+        }
+
+        p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent {
+            margin-top: 0cm;
+            margin-right: 0cm;
+            margin-bottom: 6.0pt;
+            margin-left: 21.0pt;
+            mso-para-margin-top: 0cm;
+            mso-para-margin-right: 0cm;
+            mso-para-margin-bottom: 6.0pt;
+            mso-para-margin-left: 2.0gd;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            mso-pagination: none;
+            font-size: 10.5pt;
+            mso-bidi-font-size: 12.0pt;
+            font-family: "Times New Roman";
+            mso-fareast-font-family: 宋体;
+            mso-font-kerning: 1.0pt;
+        }
+        /* Page Definitions */
+        @page {
+            mso-page-border-surround-header: no;
+            mso-page-border-surround-footer: no;
+        }
+
+        @page Section1 {
+            size: 595.3pt 841.9pt;
+            margin: 72.0pt 90.0pt 72.0pt 90.0pt;
+            mso-header-margin: 42.55pt;
+            mso-footer-margin: 49.6pt;
+            mso-paper-source: 0;
+            layout-grid: 15.6pt;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+        -->
+    </style>
+    <!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+
+    <script type="text/javascript" language="javascript"> 
+        /**//* 
+        * 
+        * @param {Object} cont 要导出的html元素内容的id,注意不要加双引号 
+        * @param {Object} key 分页关键字 
+        */
+        function AllAreaWord(cont, key) {
+            var oWD = new ActiveXObject("Word.Application");
+            //默认为页面视图 
+            var oDC = oWD.Documents.Add("", 0, 0);
+            var oRange = oDC.Range(0, 1);
+            //var oRange1 = oDC.Range(0,2); 
+            var sel = document.body.createTextRange();
+            //参数为html元素id 
+            sel.moveToElementText(cont);
+            sel.select();
+            sel.execCommand("Copy");
+            oRange.Paste();
+            oWD.Application.Visible = true;
+            //得到打开后word的selection对象 
+            var selection = oWD.Selection;
+            //设置字体大小 
+            selection.Font.Size = 10;
+            //ctrl+A 全选操作 
+            selection.WholeStory();
+            //清除格式 
+            selection.Find.ClearFormatting();
+            //指定查找关键字 
+            selection.Find.Text = key;
+            //^m为手动分页符标记 
+            //向下查找 
+            selection.Find.Forward = true;
+            selection.Find.Wrap = 1;
+            //不区分大小写 
+            selection.Find.MatchCase = false;
+            //不匹配整个单词 
+            selection.Find.MatchWholeWord = false;
+            //如果找到指定字符串返回真,否则返回false 
+            while (selection.Find.Execute()) {
+                //插入分页符,分页符常量为7,具体可查word api 
+                selection.InsertBreak(7);
+            }
+
+            window.close();
+        }
+    </script>
+
+</head>
+<body lang="ZH-CN" style='tab-interval: 21.0pt; text-justify-trim: punctuation' onload="javascript:AllAreaWord(test,'^');">
+    <div id="test">
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <o:p>&nbsp;</o:p>
+            </span>
+        </p>
+        <p align="center" class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center;">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <img src="http://218.197.101.9/DaYin/image001.jpg" />
+            </span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312"><span style="mso-spacerun: yes">&nbsp;</span><o:p></o:p></span>
+        </p>
+        <p align="center" class="MsoPlainText" style="margin: 0cm 0cm 0pt; layout-grid-mode: char; line-height: 26pt; text-align: center; mso-line-height-rule: exactly">
+            <b><span lang="X-NONE" style="font-size: 16pt; font-family: 仿宋">本科生毕业设计（论文）开题报告<o:p></o:p></span></b>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <o:p>&nbsp;</o:p>
+            </span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <o:p>&nbsp;</o:p>
+            </span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <o:p>&nbsp;</o:p>
+            </span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <o:p>&nbsp;</o:p>
+            </span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span style="text-fit: 96.0pt; mso-text-fit-id: 971239424"><b><span style="font-size: 15pt; font-family: 仿宋_GB2312; letter-spacing: 5.25pt; mso-font-kerning: 0pt">学生姓名</span></b></span><b><span
+                style="font-size: 15pt; font-family: 仿宋_GB2312; mso-font-kerning: 0pt">：<u><span
+                    lang="EN-US"><span style="mso-spacerun: yes"> &nbsp; &nbsp;刘思宇 &nbsp; &nbsp; </span>
+                    <span style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>
+                    <o:p>
+                        </o:p>
+                </span></u></span></b>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span style="text-fit: 96.0pt; mso-text-fit-id: 971239425"><b><span style="font-size: 15pt; font-family: 仿宋_GB2312; mso-font-kerning: 0pt; mso-font-width: 87%">导师姓名、职称</span></b></span><b><span
+                style="font-size: 15pt; font-family: 仿宋_GB2312; mso-font-kerning: 0pt">：<u><span
+                    lang="EN-US"><span style="mso-spacerun: yes"> &nbsp; &nbsp;肖敏、副教授&nbsp; &nbsp; </span>
+                    <span style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></u></span></b><b style="mso-bidi-font-weight: normal"><u><span
+                        lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312"><span style="mso-spacerun: yes">
+                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>
+                        <o:p>
+                                </o:p>
+                    </span></u></b>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span style="text-fit: 96.0pt; mso-text-fit-id: 971239426"><b><span style="font-size: 15pt; font-family: 仿宋_GB2312; letter-spacing: 5.25pt; mso-font-kerning: 0pt">所属学院</span></b></span><b><span
+                style="font-size: 15pt; font-family: 仿宋_GB2312; mso-font-kerning: 0pt">：<u><span
+                    lang="EN-US"><span style="mso-spacerun: yes"> &nbsp; &nbsp;计算机学院 &nbsp; &nbsp; &nbsp; </span>
+                    <span style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="mso-spacerun: yes">
+                            &nbsp; &nbsp; </span></span></u></span></b><b style="mso-bidi-font-weight: normal"><u>
+                                <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312"><span style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>
+                                    <o:p>
+                                    </o:p>
+                                </span></u></b>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span style="text-fit: 96.0pt; mso-text-fit-id: 971239427"><b><span style="font-size: 15pt; font-family: 仿宋_GB2312; letter-spacing: 5.25pt; mso-font-kerning: 0pt">专业班级</span></b></span><b><span
+                style="font-size: 15pt; font-family: 仿宋_GB2312; mso-font-kerning: 0pt">：<u><span
+                    lang="EN-US"><span style="mso-spacerun: yes"> &nbsp; &nbsp;计算机zy2001 &nbsp; &nbsp; &nbsp;&nbsp;
+                    </span><span style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span
+                        style="mso-spacerun: yes"> &nbsp; &nbsp;</span></span></u></span></b><b style="mso-bidi-font-weight: normal"><u><span
+                            lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312"><span style="mso-spacerun: yes">
+                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><o:p></o:p></span></u></b>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <b><span style="font-size: 15pt; font-family: 仿宋_GB2312">设计（论文）题目：</span></b><b><u><span
+                lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312; mso-font-kerning: 0pt"><span
+                    style="mso-spacerun: yes"> &nbsp; &nbsp;RSA加解密算法在FPGA虚拟仿真平台上的改进实现 &nbsp; &nbsp; &nbsp;&nbsp; </span><span
+                        style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="mso-spacerun: yes">
+                            &nbsp; &nbsp;</span></span></u></b><b style="mso-bidi-font-weight: normal"><u><span
+                                lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312"><span style="mso-spacerun: yes">
+                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>
+                                <o:p>
+                                </o:p>
+                            </span></u></b>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312"><span style="mso-spacerun: yes">&nbsp;</span><o:p></o:p></span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 277.5pt; line-height: 26pt; mso-line-height-rule: exactly; mso-char-indent-count: 18.5">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <o:p>&nbsp;</o:p>
+            </span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 277.5pt; line-height: 26pt; mso-line-height-rule: exactly; mso-char-indent-count: 18.5">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <o:p>&nbsp;</o:p>
+            </span>
+        </p>
+        <p align="center" class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; text-align: center; mso-line-height-rule: exactly">
+            <span style="font-size: 15pt; font-family: 仿宋_GB2312">
+                2024 &nbsp;年&nbsp; 3 &nbsp;月&nbsp; 22 日 &nbsp;</span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312"><span style="mso-spacerun: yes">&nbsp;</span><o:p></o:p></span>
+        </p>
+        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312; mso-font-kerning: 1.0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
+            <br clear="all" style="page-break-before: always" />
+        </span>
+        <p align="center" class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; text-align: center; mso-line-height-rule: exactly">
+            <b style="mso-bidi-font-weight: normal"><span style="font-size: 15pt; font-family: 仿宋_GB2312">开题报告填写要求<span lang="EN-US"><o:p></o:p></span></span></b>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">1</span><span
+                style="font-size: 15pt; font-family: 仿宋_GB2312">．开题报告应根据教师下发的毕业设计（论文）任务书，在教师的指导下由学生独立撰写。<span
+                    lang="EN-US"><o:p></o:p></span></span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">2</span><span
+                style="font-size: 15pt; font-family: 仿宋_GB2312">．开题报告内容填写后，应及时打印提交指导教师审阅。<span lang="EN-US"><o:p></o:p></span></span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">3</span><span
+                style="font-size: 15pt; font-family: 仿宋_GB2312">．“设计的目的及意义”至少<span lang="EN-US">800</span>汉字（外语至少<span
+                    lang="EN-US">500</span>字），“基本内容和技术方案”至少<span lang="EN-US">400</span>汉字（外语至少<span
+                        lang="EN-US">200</span>字）。进度安排应尽可能详细。<span lang="EN-US"><o:p></o:p></span></span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">4</span><span
+                style="font-size: 15pt; font-family: 仿宋_GB2312">．指导教师意见：学生的调研是否充分？基本内容和技术方案是否已明确？是否已经具备开始设计（论文）的条件？能否达到预期的目标？是否同意进入设计（论文）阶段？<span
+                    lang="EN-US"><o:p></o:p></span></span>
+        </p>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <b style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <o:p>&nbsp;</o:p>
+            </span></b>
+        </p>
+        <b style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312; mso-font-kerning: 1.0pt; mso-hansi-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
+            <br clear="all" style="page-break-before: always; mso-special-character: line-break" />
+        </span></b>
+        <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+            <b style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                <o:p>&nbsp;</o:p>
+            </span></b>
+        </p>
+        <table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-right: medium none; border-top: medium none; margin: auto auto auto 5.4pt; border-left: medium none; width: 414pt; border-bottom: medium none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"
+            width="552">
+
+
+            <tr style="height: 546pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
+                <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 414pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 546pt; background-color: transparent; mso-border-alt: solid windowtext .5pt"
+                    valign="top"
+                    width="552">
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <b style="mso-bidi-font-weight: normal"><span style="font-size: 15pt; font-family: 仿宋_GB2312">撰写内容要求（可加页）： <span lang="EN-US">
+                            <o:p>
+                                </o:p>
+                        </span></span></b>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">1</span><span
+                            style="font-size: 15pt; font-family: 仿宋_GB2312">．目的及意义（含国内外的研究现状分析）<span lang="EN-US"><o:p></o:p></span></span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            <p><p>	1.1设计目的及意义<span></span></p><p style="text-indent:30.0pt;">	在当今信息技术高速发展的时代背景下，数据安全和信息加密技术成为了网络安全的重要组成部分。随着互联网的普及和大数据时代的来临，人们越来越重视个人信息和数据的保护。<span>RSA</span>算法作为一种公钥加密技术，以其独特的加密机制和较高的安全性，在数字签名和加密通信等领域得到了广泛应用。然而，随着计算能力的提升和计算方法的进步，传统的软件实现方式在处理大规模数据加密时，面临着速度慢、资源消耗大等问题。因此，寻找一种更高效、更安全的<span>RSA</span>算法实现方式成为了研究的重点。<span></span></p><p style="text-indent:30.0pt;">	FPGA（现场可编程门阵列）技术，以其灵活的可编程性、较高的处理速度和较低的功耗，为解决上述问题提供了新的思路。将<span>RSA</span>算法在<span>FPGA</span>上实现，不仅可以利用<span>FPGA</span>并行处理的特点大幅提高加解密的速度，还可以通过硬件级别的实现增强算法的安全性。此外，<span>FPGA</span>的可重配置性使得加密系统能够根据不同的应用需求灵活调整，增强了系统的适应性和可扩展性。<span></span></p><p style="text-indent:30.0pt;">	本研究旨在探索<span>RSA</span>加解密算法在<span>FPGA</span>虚拟仿真平台上的实现与应用，通过设计和优化算法在<span>FPGA</span>上的硬件实现流程，既保证了加解密过程的高效率，又确保了数据传输过程的高安全性。同时，通过在虚拟仿真平台上的测试和验证，可以预先发现并解决实际应用中可能遇到的问题，为后续的实物部署和应用提供了坚实的基础。综上所述，本研究不仅对提升<span>RSA</span>算法在实际应用中的性能和安全性具有重要意义，也为未来<span>FPGA</span>在加密技术领域的应用提供了新的研究方向和广阔的发展前景。通过本研究的深入，我们期待为网络安全和信息保护领域提供更加高效、可靠的技术支持，为保护数字时代的信息安全作出贡献。<span></span></p><p>	<br /></p><p>	1.2国内外研究现状<span></span></p><p>	1.2.1理论研究<span></span></p><p>	Jan-Hendrik Evertse于<span>1992</span>年在<span>JCRYPTOL</span>发布了一篇论文<span>[1],</span>这篇论文指出<span>,</span>如果签名机构向个人发布某些类型的<span>RSA</span>签名<span>, </span>在个人无法计算<span>RSA</span>根的假设下<span>,</span>根据不同类型<span>RSA</span>签名之间的内在联系<span>,</span>在某些条件下<span>,</span>可以从一些给定类型的签名推导出其他类型的签名<span>.</span></p><p>	<br /></p><p>	Amos Fiat于<span>1997</span>年在<span>JCRYPTOL</span>发布了一篇论文<span>[2],</span>这篇论文提出了一种称为批量<span>RSA(Batch RSA)</span>的<span>RSA</span>算法变体<span>,</span>这项工作通过批量处理和分布式处理两种技术手段<span>,</span>有效改进了<span>RSA</span>算法的性能和安全性<span>,</span>这两个特性使得批量<span>RSA</span>成为一种非常有前景的<span>RSA</span>算法变体<span></span></p><p>	<br /></p><p>	Don Coppersmith于<span>1999</span>年在<span>JCRYPTOL</span>发布了一篇论文<span>[3],</span>这篇论文讨论了在中国剩余定理<span>(CRT)</span>算法的基础上实现公钥密码系统时<span>,</span>如果存在错误计算<span>,</span>可能导致的安全问题<span>.,</span>在某些特定情况下<span>,</span>仅需一个错误的签名<span>,</span>就足以恢复出密钥<span></span></p><p>	<br /></p><p>	Rosario Gennaro and Tal Rabin于<span>2000</span>年在<span>JCRYPTOL</span>发布了一篇论文<span>[4],</span>论文提出了一种在门限<span>RSA</span>签名中引入鲁棒性的新方法<span>,</span>可以容忍参与者的恶意行为<span>,</span>同时保持与原始方案相当的效率<span>.</span></p><p>	<br /></p><p>	Rosario Gennaro and Tal Rabin于<span>2000</span>年在<span>JCRYPTOL</span>发布了一篇论文<span>[5],</span>这篇论文介绍了第一个基于<span>RSA</span>的不可否认签名方案<span></span></p><p>	<br /></p><p>	R. Fischlin and C. P. Schnorr于<span>2000</span>年在<span>JCRYPTOL</span>发布了一篇论文<span>[6],</span>这篇论文讨论了<span>RSA</span>加密函数的安全性证明<span></span></p><p>	<br /></p><p>	Daniel R. L. Brown于<span>2016</span>年在<span>JCRYPTOL</span>发布了一篇论文<span>[7],</span>这篇论文的主要结论是<span>:</span>如果因数分解是困难的<span>,</span>那么直线程序<span>(straight line programs)</span>不能有效地解决低公钥指数的<span>RSA</span>问题<span></span></p><p>	<br /></p><p>	Carmit Hazay于<span>2017</span>年在<span>JCRYPTOL</span>发布了一篇论文<span>[8],</span>这篇论文的主要贡献有两个<span>:</span></p><p>	提出了第一个在恶意攻击下安全的、完全可模拟的分布式<span>RSA</span>合数生成协议<span>.</span>之前的协议都是通用的<span>,</span>没有考虑<span>RSA</span>合数生成的特殊性<span>.</span></p><p>	在双方设置下<span>,</span>提出了一个完整的<span>Paillier</span>门限加密方案<span>,</span>可以抵御恶意攻击<span>.</span>之前的<span>Paillier</span>门限方案都是多方设置<span>.</span></p><p>	<br /></p><p>	Atsushi Takayasu&#8224;于2019年在<span>JCRYPTOL</span>发布了一篇论文<span>[9],</span>这篇论文通过新颖的技术手段<span>,</span>在小<span>CRT</span>指数<span>RSA</span>的安全性分析领域取得了重要进展<span>,</span></p><p>	<br /></p><p>	Megan Chen于<span>2022</span>年在<span>JCRYPTOL</span>发布了一篇论文<span>[10],</span>这篇论文提出了一个新的多方协议<span>,</span>用于分布式生成<span>RSA</span>的双素数模数<span>,</span>在假设遗忘传输和因数分解困难的情况下<span>,</span>可以抵抗任意子集的恶意合谋方<span>.</span></p><p>	<br /></p><p>	1.2.2实际应用<span></span></p><p>	<br /></p><p>	早在<span>1990</span>年<span>,J.R. Sherwood and V.A. Gallo</span>在<span>CRYPTO</span>发表了一篇论文<span>[11],</span>这篇摘要讨论了在包含交互式和存储转发设施的复杂网络中<span>,</span>使用智能卡进行<span>RSA</span>数字签名的应用<span></span></p><p>	<br /></p><p>	在<span>2008</span>年<span>,</span>华中科技大学曹计昌团队在实验室预研项目<span>"</span>可动态重构的双内核多片内操作系统的智能卡体系结构<span>"</span>时<span>,</span>学生便提出了一种基于<span> FPGA </span>的<span> RSA </span>加密芯片的设计与实现<span>[12]</span></p><p>	<br /></p><p>	2013年<span>,</span>大连理工大学王开宇团队将<span>FPGA</span>动态重构技术与<span>RSA</span>非对称加密技术结合<span>,</span>设计并实现了一个可利用以太网远程加密动态重配置的系统<span>[13]</span></p><p>	<br /></p><p>	1.2.3改进实现<span></span></p><p>	<br /></p><p>	Thorsten Kleinjung于<span>2010</span>年在<span>CRYPTO</span>发布了一篇论文<span>[14], </span>这篇论文主要报告了使用数域筛法<span>(number field sieve)</span>对<span>768</span>位数<span>RSA-768</span>进行因式分解的结果<span>,</span>并讨论了其对<span>RSA</span>的一些影响<span>.</span></p><p>	<br /></p><p>	Ari Shawkat Tahir2015年在<span>Xilinx_Spartan3 (XC3S50</span>器件<span>, PG208</span>封装<span>, -4</span>速度<span>)</span>上实现时<span>[15],RSA</span>算法设计仅占用<span>29%</span>的芯片资源<span>,</span>可实现的工作时钟频率为<span>68.573
+MHz</span></p><p>	<br /></p><p>	西安交通大学龚文杰团队为了满足某款低速微型芯片<span>("</span>墨盒特制芯片解决方案<span>")</span>的安全性需求<span>,</span>要设计一个小面积的<span>RSA</span>硬件加密模块<span>,</span>实现芯片数据保护<span>,</span>防止被破解<span>.</span>他们采用了基<span>2</span>免减蒙哥马利模乘算法<span>[16],</span>避免传统算法运算时间长、面积大的缺陷<span>,</span>实现了<span>2048</span>位<span>RSA</span>加密运算的硬件模块<span>,</span>吴克强团队<span>[17]</span>优化小素因子预筛选方法<span>,</span>提出新的预筛选处理方式<span>,</span>使每个小素数只需过滤一遍<span>,</span>提高预筛选速度<span>.</span>优化模逆运算<span>,</span>提出改进的<span>Euclid</span>算法<span>,</span>通过加减移位操作完成模逆<span>,</span>避免复杂除法运算<span>,</span>并通过有效处理提高运算速度<span>,</span>易于硬件实现<span>.</span></p><p>	<br /></p><p>	Jianiong Tan等人<span>2017</span>年<span>IEEE</span>提出了一种基于<span>Xilinx Zynq SoC</span>异构架构的<span>RSA</span>加速方案<span>[18],</span>采用无减法<span>Montgomery</span>算法和中国剩余定理<span>(CRT)</span>实现高速<span>RSA</span>处理器<span>,</span>实验结果表明<span>,</span>总体性能与节点数量成线性关系<span>.</span>与传统的多核桌面<span>(Intel i7-3770)</span>相比<span>,</span>可实现<span>6-9</span>倍的加速<span>;</span>与多核服务器<span>(288</span>核<span>)</span>相比<span>,</span>性能相当<span>.</span>与传统平台相比<span>,</span>该方案的能效可提高<span>2.5</span>倍<span>.</span></p></p><p><span></span><span></span><span></span><span></span> </p></span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            <o:p>&nbsp;</o:p>
+                        </span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">2</span><span
+                            style="font-size: 15pt; font-family: 仿宋_GB2312">．研究（设计）的基本内容、目标、拟采用的技术方案及措施<span
+                                lang="EN-US"><o:p></o:p></span></span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            <p><p>	2.1基本内容<span></span></p><p style="text-indent:30.0pt;">	本研究的核心目的在于探索并实现<span>RSA</span>非对称加密算法在<span>FPGA</span>（现场可编程门阵列）平台上的加解密过程，并通过具体的应用案例展现其在现实世界中的应用价值和效益。为了确保研究的全面性和深入性，我们将分为以下三个主要部分进行研究：<span></span></p><p style="text-indent:30.0pt;">	理论学习： 在进行算法实现之前，首先需对密码学的基础知识进行全面的学习，特别是深入理解非对称加密算法中<span>RSA</span>算法的原理。<span>RSA</span>算法的核心在于利用大素数的选取和它们乘积的因式分解困难性，基于数论原理构建的公开密钥密码体制，使得公钥可公开用于加密，而只有持有私钥的用户才能解密。<span></span></p><p style="text-indent:30.0pt;">	算法实现： 在理论基础上，进一步在<span>FPGA</span>平台上实现<span>RSA</span>加密解密算法。<span>FPGA</span>的可编程性和高性能计算优势使其成为实现高效加密算法的理想选择。本部分的目标是通过<span>FPGA</span>平台的设计和编程，实现<span>RSA</span>算法的有效运行，并对其进行详细的仿真测试，验证算法的正确性和效率。<span></span></p><p style="text-indent:30.0pt;">	应用案例分析：<span></span></p><p>	在成功实现<span>RSA</span>算法的<span>FPGA</span>仿真之后，将寻找并选择一个具体的应用场景，以此为例展示<span>RSA</span>加解密算法在<span>FPGA</span>平台上实现的实际价值。这一部分将详细说明所选应用案例的背景、需求以及<span>RSA</span>算法在此案例中的应用方式和优势。目标是展现通过<span>FPGA</span>平台实现<span>RSA</span>算法在现实世界安全通信、数据保护等领域的应用潜力和成果。<span></span></p><p style="text-indent:30.0pt;">	综上所述，本研究旨在通过<span>FPGA</span>平台的高效计算能力，实现并优化<span>RSA</span>加解密算法，从而提供一种既安全又高效的加密解密解决方案。通过理论学习、算法实现与应用案例的分析，本研究不仅加深了对<span>RSA</span>算法及其在硬件平台上实现的理解，也为密码学应用提供了新的视角和技术路径，有望在信息安全领域中发挥重要作用。<span></span></p><p>	2.2技术方案<span></span></p><p>	理论学习与原理掌握：
+首先，深入学习<span>RSA</span>公开密钥密码体制的原理，包括大素数的选择、公钥与私钥的生成、加密与解密过程。理解<span>RSA</span>算法的数学基础是实现算法的前提。<span></span></p><p>	FPGA平台选择与配置： 确定适合实现<span>RSA</span>算法的<span>FPGA</span>平台，包括硬件选择、开发环境搭建以及必要的软件配置。<span>FPGA</span>的可编程性和并行处理能力使其成为加密算法硬件实现的理想平台。<span></span></p><p>	算法硬件化设计：
+将<span>RSA</span>算法的运算过程转化为<span>FPGA</span>上的硬件逻辑设计，包括模数运算、加密和解密核心算法的硬件描述语言<span>(HDL)</span>编码，以及适配<span>FPGA</span>的资源优化。重点是将算法中的关键步骤如模幂运算高效实现。<span></span></p><p>	仿真测试与验证：
+在<span>FPGA</span>开发环境中进行仿真测试，验证算法实现的正确性和性能。这一步骤包括测试各种加解密场景，确保在不同的操作条件下算法都能稳定运行。<span></span></p><p>	实际应用案例演示：
+最后，选择一个或多个具体应用案例来展示<span>RSA</span>加解密算法在<span>FPGA</span>虚拟仿真平台上的实际运行效果和应用价值。案例的选择应体现算法实现的安全性、效率和可靠性。<span></span></p></p><p style="margin-left:36.0pt;text-indent:-18.0pt;"><b></b><span></span> </p></span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            <o:p>&nbsp;</o:p>
+                        </span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">3</span><span
+                            style="font-size: 15pt; font-family: 仿宋_GB2312">．进度安排<span lang="EN-US"><o:p></o:p></span></span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            <p><b><p>	前期调研与准备（<span>1</span>月<span>26</span>日<span>-3</span>月<span>10</span>日）：<span></span></p><p>	进行广泛的调研，查阅与<span>RSA</span>算法及<span>FPGA</span>实现相关的至少<span>10</span>篇文献，其中至少包含<span>5</span>篇英文文献。这一阶段的目标是深入理解<span>RSA</span>算法的原理和<span>FPGA</span>技术的应用，为项目的基本内容和技术方案的确定打下坚实的基础。完成开题报告，详细阐述研究目的、方法、预期目标及其科学和实用价值。<span></span></p><p>	文献翻译与技术学习（<span>3</span>月<span>10</span>日<span>-3</span>月<span>24</span>日）：<span></span></p><p>	翻译与项目相关的英文文献，确保翻译工作量不少于<span>5000</span>汉字。翻译工作完成后，提交给指导教师审阅并根据反馈进行修改。在这一阶段还需要开始深入学习<span>FPGA</span>设计和编程技术，为后续的算法实现打下技术基础。<span></span></p><p>	RSA算法研究与<span>FPGA</span>开发环境搭建（<span>3</span>月<span>25</span>日<span>-4</span>月<span>7</span>日）：<span></span></p><p>	深入研究<span>RSA</span>加解密算法的数学原理和实现方法，掌握关键技术点。选择合适的<span>FPGA</span>开发板和开发环境，完成开发环境的配置和基本操作训练。<span></span></p><p>	算法设计与初步实现（<span>4</span>月<span>8</span>日<span>-4</span>月<span>28</span>日）：<span></span></p><p>	设计<span>RSA</span>算法的<span>FPGA</span>实现方案，包括算法的硬件描述语言<span>(HDL)</span>编码和初步的功能模块设计。在<span>FPGA</span>开发环境中实现算法的初步版本，并进行基本的功能测试。<span></span></p><p>	仿真测试与性能优化（<span>4</span>月<span>29</span>日<span>-5</span>月<span>20</span>日）：<span></span></p><p>	对<span>RSA</span>算法的<span>FPGA</span>实现进行全面的仿真测试，识别并解决存在的问题。根据测试结果进行性能优化，提高算法的效率和稳定性。<span></span></p><p>	论文撰写与提交（<span>5</span>月<span>21</span>日<span>-6</span>月<span>5</span>日）：<span></span></p><p>	在指导教师的指导下，开始组织论文材料，撰写毕业设计论文初稿，要求字数为<span>30000</span>字以上。初稿完成后，根据指导老师的审查和建议进行修改，最终定稿。按照学校提供的论文规范要求，完成论文的最终撰写、打印和装订，准备提交。<span></span></p><p style="text-indent:30.0pt;">	通过这一系列细致的进度安排，项目旨在确保<span>RSA</span>加解密算法在<span>FPGA</span>平台的研究和实现不仅具有理论的深度和广度，而且能够在实践中展现出高效和实用的价值。此外，这样的安排有助于系统地推进研究工作，确保按时完成毕业设计的各个阶段任务。<span></span></p></b></p><p style="margin-left:72.0pt;text-indent:-18.0pt;"><span></span> </p></span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            <o:p>&nbsp;</o:p>
+                        </span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">4</span><span
+                            style="font-size: 15pt; font-family: 仿宋_GB2312">．阅读的参考文献不少于<span lang="EN-US">15</span>篇（其中近五年外文文献不少于<span
+                                lang="EN-US">3</span>篇）<span lang="EN-US"><o:p></o:p></span></span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            <p style="margin-left:36.0pt;text-indent:-18.0pt;"><b><p>	[1] Evertse, J.-H., &amp; van Heyst, E. (1992). Which New
+RSA-Signatures Can Be Computed from Certain Given RSA-Signatures? Journal of
+Cryptology, 41-52.</p><p>	[2] Fiat,
+A. (1997). Batch RSA. Journal of Cryptology, 10(2), 75-88.</p><p>	[3] Joye,
+M., Lenstra, A.K., &amp; Quisquater, J.J. (1999). Chinese Remaindering Based
+Cryptosystems in the Presence of Faults. Journal of Cryptology, 12(4), 241-245.</p><p>	[4] Gennaro,
+R., Rabin, T., Jarecki, S., &amp; Krawczyk, H. (2000). Robust and Efficient
+Sharing of RSA Functions. Journal of Cryptology, 13(2), 273-300.</p><p>	[5] Fischlin,
+R., &amp; Schnorr, C. P. (2000). Stronger Security Proofs for RSA and Rabin
+Bits. Journal of Cryptology, 13(2), 221-244.&nbsp;</p><p>	[6] Gennaro,
+R., Rabin, T., &amp; Krawczyk, H. (2000). RSA-Based Undeniable Signatures.
+Journal of Cryptology, 13, 397-416.</p><p>	[7] Brown,
+D. R. L. (2016). Breaking RSA May Be As Difficult As Factoring. Journal of
+Cryptology, 29(1), 220-241.</p><p>	[8] Hazay,
+C., Mikkelsen, G. L., Rabin, T., Toft, T., &amp; Nicolosi, A. A. (2019).
+Efficient RSA Key Generation and Threshold Paillier in the Two-Party Setting.
+Journal of Cryptology, 32(1), 265-323.</p><p>	[9] Takayasu,
+A., Lu, Y., &amp; Peng, L. (2019). Small CRT-Exponent RSA Revisited. Journal of
+Cryptology, 32(4), 1337-1382.</p><p>	[10] Chen,
+M., Doerner, J., Kondi, Y., Lee, E., Rosefield, S., &amp; Shelat, A. (2022).
+Multiparty Generation of an RSA Modulus. Journal of Cryptology, 35(12).</p><p>	[11] Sherwood,
+J. R., &amp; Gallo, V. A. (1990). The Application of Smart Cards for RSA
+Digital Signatures in a Network Comprising Both Interactive and
+Store-and-Forward Facilities. In S. Goldwasser (Ed.), Advances in Cryptology -
+CRYPTO'88 (pp. 484-496). Springer-Verlag Berlin Heidelberg.</p><p>	[12] 段天<span>. (2008). </span>基于<span>FPGA</span>的<span>RSA</span>加密芯片的设计与实现<span>(</span>硕士论文<span>, </span>华中科技大学<span>).</span></p><p>	[13] 赵赟<span>. (2013). RSA</span>加密技术在<span>FPGA</span>动态重构系统安全方面的应用<span>(</span>硕士论文<span>,</span>大连理工大学<span>).</span></p><p>	[14] Kleinjung,
+T., Aoki, K., Franke, J., Lenstra, A. K., Thomé, E., Bos, J. W.,
+Gaudry, P., Kruppa, A., Montgomery, P. L., Osvik, D. A., te Riele, H.,
+Timofeev, A., &amp; Zimmermann, P. (2010). Factorization of a 768-Bit RSA
+Modulus. In T. Rabin (Ed.), Advances in Cryptology - CRYPTO 2010 (pp. 333-350).
+Springer Berlin Heidelberg.</p><p>	[15] Tahir,
+A. S. (2015). Design and Implementation of RSA Algorithm using FPGA.
+INTERNATIONAL JOURNAL OF COMPUTERS &amp; TECHNOLOGY, 16(8), 7141-7147.</p><p>	[16] 龚文杰<span> (2016) ,</span><span> </span>RSA算法的<span>FPGA</span>快速实现<span>, (</span>硕士论文<span>,</span>西安交通大学<span>)</span></p><p>	[17] 吴克强<span> (2017) ,</span><span> </span>面向硬件的<span>RSA</span>密钥快速生成方法设计及其<span>FPGA</span>实现<span>(</span>硕士论文<span>,</span>西安交通大学<span>)</span></p><p>	[18] Bai,
+X., Jiang, L., Dai, Q., Yang, J., &amp; Tan, J. (2017). Acceleration of RSA
+Processes based on Hybrid ARM-FPGA Cluster. In 2017 IEEE Symposium on Computers
+and Communications (ISCC) (pp. 444-449). IEEE.</p></b></p><p style="margin-left:36.0pt;text-indent:-18.0pt;"><b></b><b></b> </p></span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            <o:p>&nbsp;</o:p>
+                        </span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 26pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">5</span><span
+                            style="font-size: 15pt; font-family: 仿宋_GB2312">．指导教师意见<span lang="EN-US"><o:p></o:p></span></span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 30pt; line-height: 26pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            </span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 30pt; line-height: 26pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312">
+                            <o:p>&nbsp;</o:p>
+                        </span>
+                    </p>
+                    <p class="MsoNormal" style="margin: 0cm 0cm 0pt; line-height: 40pt; mso-line-height-rule: exactly">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312"><span style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </span></span>
+                        <span style="font-size: 15pt; font-family: 仿宋_GB2312">指导教师（签名）：<u><span lang="EN-US"><span
+                            style="mso-spacerun: yes"> &nbsp; 肖敏 &nbsp; </span></span></u><span lang="EN-US"><span style="mso-spacerun: yes">&nbsp;</span><o:p></o:p></span></span>
+                    </p>
+                    <p align="right" class="MsoNormal" style="margin: 0cm 0cm 0pt; layout-grid-mode: char; line-height: 26pt; text-align: right; mso-line-height-rule: exactly; mso-layout-grid-align: none">
+                        <span lang="EN-US" style="font-size: 15pt; font-family: 仿宋_GB2312"><span style="mso-spacerun: yes">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; </span></span><span style="font-size: 15pt; font-family: 仿宋_GB2312">
+                                 &nbsp;年&nbsp;  &nbsp;月&nbsp;  &nbsp;日
+                            </span>
+                    </p>
+                </td>
+            </tr>
+
+
+        </table>
+    </div>
+</body>
+</html>
